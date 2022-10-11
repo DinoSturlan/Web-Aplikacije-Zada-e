@@ -3,5 +3,6 @@ function valute(a){
     console.log("To je", b, "eura.");
 }
 
-var x = 15 //kolicina kuna
+var x = 15 // kolicina kuna
 valute(x);
+
